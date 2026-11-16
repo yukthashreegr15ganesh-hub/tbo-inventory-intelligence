@@ -1,0 +1,10 @@
+node_modules/
+backend/.venv/
+backend/__pycache__/
+*.pyc
+*.db
+backend/artifacts/backups/
+.env
+.env.local
+.DS_Store
+Thumbs.db
